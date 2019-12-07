@@ -18,7 +18,9 @@ pip install pytonik_ip_vpn_checker
 from pytonik_ip_vpn_checker.ip import ip
 ```
 ### how to get HTTP IP ADDRESS
+```
 ip.get().ip
+```
 
 ### how to get VPN IP ADDRESS
 ```
